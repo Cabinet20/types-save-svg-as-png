@@ -1,7 +1,7 @@
 // Type definitions for saveSvgAsPng v1.0.3
 // Project: https://github.com/exupero/saveSvgAsPng
 
-export type SourceElement = HTMLElement | SVGElement;
+export type SourceElement = HTMLElement | SVGElement | Element;
 
 export type BackgroundStyle = string | CanvasGradient | CanvasPattern;
 

@@ -38,7 +38,7 @@
       "email": "ts-npm-types@microsoft.com"
     }
   ],
-  "name": "@types/save-svg-as-png",
+  "name": "types-save-svg-as-png",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
